@@ -6,6 +6,7 @@
    Example:
    keytool -alias androiddebugkey -keystore C:\Users\Adi\.android\debug.keystore -list -v
    
+# If you face any error like Xlint...try using "flutter clean" in the terminal
 # All the assets are available in the repo
 
 # Thank you!
